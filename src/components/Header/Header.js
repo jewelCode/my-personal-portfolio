@@ -6,7 +6,7 @@ const Header = () => {
         <div className="container">
             <div className="row">
                     <div className="col-md-6 mt-5">
-                        <h1 className="text-primary">Welcome to Jewel's</h1>
+                        <h1>Welcome to Jewel's</h1>
                         <h1>Portfolio</h1>
                         <h4>Front End Developer</h4>
                         <p>You might saw me jumping, climbing buildings, and stopping trains. But nobody pays me a dime for that work. That's why I am learning and mastering web development. I will not stop until I become the Web Development Hero.</p>
