@@ -20,7 +20,7 @@ const Contact = () => {
                         </div>
                         <div className="col-md-9">
                             <h6>Call Me</h6>
-                            <h4>+1234 5678 9000</h4>
+                            <h4>01920666327</h4>
                             <h6>Email</h6>
                             <h5>jewelbarua101@gmail.com</h5>
                         </div>
