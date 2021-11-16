@@ -4,9 +4,7 @@ import skills from '../resources/skills.jpg'
 const Skills = () => {
     return (
         <div className="container mt-5">
-            
             <div className="row">
-               
                 <div className="col-md-7">
                         <h2 className="text-center">SKILLS</h2>    
                     <h5>HTML</h5>
