@@ -5,8 +5,8 @@ const Skills = () => {
     return (
         <div className="container mt-5">
             <div className="row">
-                <div className="col-md-7">
-                        <h2 className="text-center">SKILLS</h2>    
+                <div className="col-md-7 me-5">
+                        <h2 className="text-center text-white border rounded p-2 bg-dark">SKILLS</h2>    
                     <h5>HTML</h5>
                     <ProgressBar animated variant="success" now={80} />
                     <br />
@@ -19,10 +19,13 @@ const Skills = () => {
                     <h5>React</h5>
                     <ProgressBar animated now={90} />
                     <br />
+                    <h5>Angular</h5>
+                    <ProgressBar animated variant="danger" now={60} />
+                    <br />
                     <h5>Vue</h5>
                     <ProgressBar animated variant="info" now={80} />
                     </div>
-                <div className="col-md-5">
+                <div className="col-md-4">
                     <img className="img-fluid" src={skills} alt=""/>
                 </div>
                 </div>
