@@ -4,7 +4,7 @@ import { Accordion } from 'react-bootstrap';
 const Experience = () => {
     return (
         <div className="container mt-5">
-            <h2 className="text-center">Experience</h2>
+            <h2 className="text-center border p-4 bg-dark text-white rounded">Experience</h2>
             <Accordion defaultActiveKey="0">
                 <Accordion.Item eventKey="0">
                     <Accordion.Header>Full Stack Web Developer</Accordion.Header>

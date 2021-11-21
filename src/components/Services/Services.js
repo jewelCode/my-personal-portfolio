@@ -3,7 +3,7 @@ import React from 'react';
 const Services = () => {
     return (
         <div className="container mt-5">
-            <h2 className="text-center">My Services</h2>
+            <h2 className="text-center border p-4 bg-dark text-white rounded">My Services</h2>
             <div className="row mt-5 justify-content-center">
                     <div className="col-md-3 border p-5 me-5 bg-dark text-light">
                         <h5 className="card-title">PSD to HTML Conversion</h5>
